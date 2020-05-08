@@ -1,0 +1,8 @@
+{
+  "deviceName": "d120ae93",
+  "platformName": "android",
+  "appPackage": "com.phonepe.app",
+  "appActivity": "com.phonepe.app.ui.activity.Navigator_MainActivity",
+  "automationName": "uiautomator2",
+  "noReset": true
+}
